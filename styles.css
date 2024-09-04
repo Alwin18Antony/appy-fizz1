@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.navbar{
+  background-color: #0a0b27;
+}
+.nav-link{
+  color: white;
+}
+.row{
+  margin: 0;
+}
+.Footer{
+  display: block;
+  padding: 30px;
+}
+#fizz-text{
+  text-align: left;
+  padding-top: 10%;
+  font-family: "merivaregular";
+  font-size: 24px;
+  line-height: 1;
+  padding-left: 10%;
+}
+.navbar-toggler{
+  border-color: white;
+}
